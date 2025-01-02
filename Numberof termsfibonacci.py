@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 def fibonacci_terms(n):
     """Generate Fibonacci sequence with n terms."""
     if n <= 0:

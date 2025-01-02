@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 def fib(n):
 	a, b = 0, 1
 	while a < n:
